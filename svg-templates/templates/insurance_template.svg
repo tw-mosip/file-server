@@ -72,13 +72,13 @@
    <image preserveAspectRatio="xMidYMid slice"  
         width="350" 
         height="560" 
-        href="http://localhost:3000/assets/backdrop-1.png"
+        href="https://raw.githubusercontent.com/tw-mosip/file-server/master/svg-templates/assets/backdrop.png"
         clip-path="url(#bg-roundedClip)"
          /> 
    
   <!-- Logo and Title -->
   <g transform="translate(0, 10)">
-    <image xlink:href="https://raw.githubusercontent.com/tw-mosip/file-server/master/StayProtectedInsurance.png" width="40" height="40" x="50%" y="15" transform="translate(-20, 0)" preserveAspectRatio="xMidYMin meet"/>
+    <image xlink:href="https://raw.githubusercontent.com/tw-mosip/file-server/master/svg-templates/assets/stay-protected-insurance-logo.png"width="40" height="40" x="50%" y="15" transform="translate(-20, 0)" preserveAspectRatio="xMidYMin meet"/>
     <text x="50%" y="80" class="titleSemiBold16" fill="#000000">
       {{credentialSubject/policyName}}
     </text>

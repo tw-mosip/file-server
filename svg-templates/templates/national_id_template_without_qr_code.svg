@@ -85,13 +85,13 @@
       <image preserveAspectRatio="xMidYMid slice"  
         width="350" 
         height="600" 
-        href="http://localhost:3000/assets/backdrop-1.png"
+        href="https://raw.githubusercontent.com/tw-mosip/file-server/master/svg-templates/assets/backdrop.png"
         clip-path="url(#bg-roundedClip)"
          /> 
     
     <!-- Logo and Title -->
     <g transform="translate(0, -10)">
-      <image xlink:href="https://api.dev1.mosip.net/inji/veridonia-logo.png" 
+      <image xlink:href="https://raw.githubusercontent.com/tw-mosip/file-server/master/svg-templates/assets/veridonia-logo.png"
               width="70" height="70" 
               x="50%" y="15" 
               transform="translate(-35, 0)" 
